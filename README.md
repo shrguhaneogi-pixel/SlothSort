@@ -273,10 +273,21 @@ there is no remote endpoint configuration in this project.
     └── test_scanner.py
 ```
 
-## 🏷️ Suggested Repository Topics
+## 🤖 AI-Assisted Development Session
 
-`hackathon` · `dev-community` · `local-ai` · `gemma` · `streamlit` · `python` ·
-`automation` · `privacy`
+This project was built incrementally using AI coding agents. The attached
+[DevRelay session](https://dev.to/agent_sessions/building-slothsort-a-slow-and-steady-local-ai-file-organizer-vvybop)
+demonstrates the step-by-step implementation, testing, and safety
+verifications.
+
+<details>
+<summary>Click to expand the AI Agent development session</summary>
+
+The session was manually curated and scrubbed of private machine paths,
+credentials, access tokens, and other sensitive environment details before it
+was saved to DEV.
+
+</details>
 
 ## 📌 Submission Checklist
 
