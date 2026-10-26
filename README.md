@@ -1,14 +1,4 @@
-<pre>
-        .-""""-.
-       /  .--.  \      🦥  slow sorting, steady results
-      /  /    \  \
-      | | 0  0 | |      [ messy files ]  ->  [ calm folders ]
-      | |  __  | |
-       \ \____/ /
-        '.___.'
-          /|\
-       __/ | \__
-</pre>
+![The Lazy Hacker Sloth](lazy_hacker_sloth.png)
 
 # SlothSort
 
