@@ -47,7 +47,11 @@ if st.button("Scan and classify"):
                 }
             )
             review_moves.append(
-                ApprovedMove(source=file.absolute_path, destination=destination)
+                ApprovedMove(
+                    source=file.absolute_path,
+                    destination=destination,
+                    root_dir=folder_path,
+                )
             )
         st.session_state.review_rows = review_rows
         st.session_state.review_moves = review_moves
